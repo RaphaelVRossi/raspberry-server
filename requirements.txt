@@ -1,0 +1,7 @@
+bson
+healthcheck
+Flask
+flask_cors
+pymongo
+gunicorn
+py-healthcheck
